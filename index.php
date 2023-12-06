@@ -1,6 +1,6 @@
 <?php
 session_start();
-
+//test//
 if(isset($_POST['logout'])) {
     // Détruire la session lorsqu'un utilisateur se déconnecte
     session_destroy();
