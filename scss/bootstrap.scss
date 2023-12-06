@@ -1,0 +1,20 @@
+/******* Customized Bootstrap ********/
+
+$primary: #ffc107;
+$secondary: #f70a0a;
+$light: #F4F5F8;
+$dark: #0e0f19;
+
+$font-family-sans-serif: 'Rubik', sans-serif;
+
+$headings-font-family: 'Oswald', sans-serif;
+
+$body-color: #8486A0;
+
+$headings-color: $secondary;
+
+$enable-responsive-font-sizes: true;
+
+$enable-rounded: false;
+
+@import "bootstrap/scss/bootstrap";
